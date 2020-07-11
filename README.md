@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media3.giphy.com/media/3h3K6PtjwTGrC/giphy.gif?cid=ecf05e47d2db213e5a4d961a36c9ea98955d4bf7e681a096&rid=giphy.gif" height="300" />
+  <img src="https://github.com/loopDelicious/loopDelicious/blob/master/ezgif.com-gif-maker.gif" />
 </p>
 
 <!--
