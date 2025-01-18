@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/loopDelicious/loopDelicious/blob/master/ezgif.com-gif-maker.gif" />
+  <img src="https://github.com/loopDelicious/loopDelicious/blob/master/point.gif" />
 </p>
 
 <!--
